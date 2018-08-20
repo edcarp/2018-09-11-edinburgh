@@ -39,15 +39,6 @@ eventbrite: "1234567890AB" # optional: alphanumeric key for Eventbrite registrat
 
 {% if page.eventbrite %}
 If you would like to go to attend this event please visit this <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=31044">registration page</a>.
-<!--
-<iframe
-  src="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=31044"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe
--->
 {% endif %}
 
 <h2 id="general">General Information</h2>
