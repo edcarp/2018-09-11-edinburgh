@@ -38,7 +38,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=31044"
   frameborder="0"
   width="100%"
   height="280px"
